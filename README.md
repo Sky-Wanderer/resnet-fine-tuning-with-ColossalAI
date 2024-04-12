@@ -1,5 +1,5 @@
 # Train ResNet on CIFAR-10 from scratch
-It is an example of training ResNet on CIFAR10 dataset by using colossalai.
+It is an example of training ResNet on CIFAR10 dataset by using colossala. from zifeng ren A0268229U
 
 ### Used model and dataset
 
