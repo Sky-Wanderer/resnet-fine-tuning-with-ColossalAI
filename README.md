@@ -45,7 +45,7 @@ python eval.py -c ./ckpt-gemini -e 80
 you can find more detail in train.log
 | Model | Training Loss | Test Accuracy (%) |
 |-------|---------------|-------------------|
-| ResNet-18     | 0.022         | 83.65             |
+| ResNet-18     | 0.12         | 83.65             |
 
 
 ---
